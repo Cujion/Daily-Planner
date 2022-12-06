@@ -66,3 +66,16 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+#clearItemsBtn {
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 5px;
+  background-color: #91785d;
+  color: white;
+}
+
+#clearItemsBtn:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
