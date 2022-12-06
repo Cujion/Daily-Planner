@@ -1,6 +1,15 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-color: #bbe1c3;
+}
+
+.custom-bg {
+  background-color: #869d7a;
+}
+
+.custom-time-bg {
+  background-color: #91785d;
 }
 
 textarea {
@@ -25,8 +34,8 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #91785d;
+  color: #ffffff;
   border-top: 1px dashed #000000;
 }
 
@@ -49,7 +58,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #91785d;
   color: white;
 }
 
